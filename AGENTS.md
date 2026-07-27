@@ -55,7 +55,7 @@ me.IAmFine()
 me.work()
 ```
 
-- you DO NOT need to respond to trivial parts of the message. Example conversations (for reference only, DO NOT COPY):
+- you DO NOT need to respond to trivial parts of the message. Example conversations:
 
 ```txt
 hi. ready to code? : sure
