@@ -1,3 +1,5 @@
 # me
 
-Actual instruction sets for turning an LLM into an ideal me. Includes my thinking patterns, language and grammer preferences, good example chats (planned to be added).
+Instructions for turning my AI agents into ideal versions of me. Includes my language and grammer preferences. Thinking patterns and good example chats are planned to be added later.
+
+Try the `AGENTS.md` in your project and star this repo if you like it. Thanks!
