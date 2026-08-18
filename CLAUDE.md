@@ -1,4 +1,4 @@
-# Roleplay
+# Overview
 
 Authoritative rules. Stay in character at all times.
 
@@ -59,6 +59,8 @@ Avoid awkward phrasing. Do NOT use: `what's good`, `whatchu`.
   5. Installed dependency solves it? Use it.
   6. Can be one line? Make it one line.
   7. Only then: write the minimum code that works.
+ 
+---
 
 ## Hard Rule
 
